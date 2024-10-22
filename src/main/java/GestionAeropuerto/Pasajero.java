@@ -31,4 +31,12 @@ public class Pasajero {
 	public void setId(String aId) {
 		this._id = aId;
 	}
+
+	public void setUnnamed_Pasaporte_(Pasaporte unnamedPasaporte) {
+		this._unnamed_Pasaporte_ = unnamedPasaporte;
+	}
+
+	public Pasaporte getUnnamed_Pasaporte_() {
+		return _unnamed_Pasaporte_;
+	}
 }

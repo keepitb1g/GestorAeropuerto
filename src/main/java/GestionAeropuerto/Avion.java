@@ -1,9 +1,6 @@
 package GestionAeropuerto;
 
 import java.util.Vector;
-import GestionAeropuerto.Vuelo;
-import GestionAeropuerto.Piloto;
-import GestionAeropuerto.Pasajero;
 
 public class Avion {
 	private String _matricula;
